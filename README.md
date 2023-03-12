@@ -6,9 +6,9 @@
   * Media: Twitter, Facebook, Instagram, Youtube, Reddit. 
   * Detail:  
     Project Details.  
-    Position,Competitor. 
-    Brandwatch Access. 
-    Queries, analysis. 
+    Position,Competitor.  
+    Brandwatch Access.  
+    Queries, analysis.  
 
 
 ## Phase 3-4. 
@@ -18,6 +18,6 @@ Model tool: Python.
   * Data source and visual tool: Brandwatch. 
   * Detail:  
     Model Interpretation. 
-    Refine key indicators. 
-    Model Building. 
-    Optimize model precision. 
+    Refine key indicators.  
+    Model Building.  
+    Optimize model precision.  
