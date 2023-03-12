@@ -17,7 +17,7 @@
 Model tool: Python. 
   * Data source and visual tool: Brandwatch. 
   * Detail:  
-    Model Interpretation. 
+    Model Interpretation.  
     Refine key indicators.  
     Model Building.  
     Optimize model precision.  
